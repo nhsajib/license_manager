@@ -1,0 +1,38 @@
+{
+    "bn": {
+        "login": {
+            "welcome": "স্বাগতম",
+            "form_subtitle" : "ড্যাশবোর্ডে যেতে লগইন করুন",
+            "user_id_placeholder": "মোবাইল নম্বর",
+            "password_placeholder": "পাসওয়ার্ড",
+            "login_btn_text": "লগইন"
+        },
+
+        "sidebar" : {
+            "dashboard" : "ড্যাশবোর্ড",
+            "pump" : "পাম্প"
+        },
+
+        "dashboard" : {
+            "welcome": "স্মার্ট ইরিগেশন এবং ফার্মিং - এ স্বাগতম"
+        },
+
+        "navbar" : {
+            "logout": "লগ আউট"
+        },
+
+        "pump"  : {
+            "title" : "পাম্প",
+            "sub_title" : "পাম্প সমূহ"
+        }
+        
+
+    },
+
+    "en": {
+        "login": {
+            "user_id_placeholder": "Mobile Number",
+            "password_placeholder": "Password"
+        }
+    }
+}
